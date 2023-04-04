@@ -7,3 +7,6 @@ Microcontroller Systems Design Project using the STM32F103RB microcontroller
     high amount of unhygienic substances which go unnoticed; a garbage bin being 
     one of them. A garbage bin holds probably the most amount of bacteria as all the waste of the household is 
     dumped there. </p>
+
+<h3>🎯 Scope </h3>
+
